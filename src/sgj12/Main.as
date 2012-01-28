@@ -6,6 +6,7 @@ package sgj12
 	/**
 	 * ...
 	 * @author Aeacus
+	 * i like tits and ass
 	 */
 	public class Main extends Sprite 
 	{
